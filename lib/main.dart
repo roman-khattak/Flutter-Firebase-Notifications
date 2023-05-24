@@ -63,7 +63,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Flutter Demo Firebase Notification application',
+      title: 'Flutter Demo Firebase Notification Application',
       theme: ThemeData(
 
         primarySwatch: Colors.blue,
